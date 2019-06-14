@@ -3,12 +3,12 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>net.silexpvp.vaultbattles</groupId>
-    <artifactId>VaultBattles</artifactId>
+    <groupId>net.silexpvp.teamdeathmatch</groupId>
+    <artifactId>TeamDeathmatch</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>net.silexpvp.tdm VaultBattles</name>
+    <name>net.silexpvp.teamdeathmatch</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
